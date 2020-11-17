@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am Junwoo kim who is interested in GOLANG from South Korea.
 
-If you want to contact me, please leave me an email
+If you want to contact me, send to me an email
 
 
 - 🌱 I’m currently learning: Go,Echo
