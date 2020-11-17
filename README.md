@@ -4,12 +4,11 @@ I am Junwoo kim who is interested in GOLANG from South Korea.
 If you want to contact me, please leave me an email
 
 
-- 🌱 I’m currently learning ... Go,Echo
-- 👯 I’m looking to collaborate on GCSharibo
-- 🤔 I’m looking for help with ... team andante,haribo
+- 🌱 I’m currently learning: Go,Echo
+- 👯 I’m looking to collaborate on: GCSharibo
+- 🤔 I’m looking for help with: team andante,haribo
 - 📫 How to reach me: whktjd0109@gmail.com
 - 😄 Pronouns: vinylrich
-- ⚡ Fun fact: 
 
 ![junwoo's github stats](https://github-readme-stats.vercel.app/api?username=vinylrich&show_icons=true&theme=highcontrast)
 
