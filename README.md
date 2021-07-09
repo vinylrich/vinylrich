@@ -4,7 +4,7 @@ I am Junwoo kim who is interested in GOLANG from South Korea.
 If you want to contact me, send to me an email
 
 
-- 🌱 I’m currently learning: Go,Echo
+- 🌱 I’m currently learning: Go,Gin
 - 👯 I’m looking to collaborate on: GCSharibo
 - 🤔 I’m looking for help with: team andante,haribo
 - 📫 How to reach me: whktjd0109@gmail.com
