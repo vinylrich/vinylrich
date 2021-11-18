@@ -4,8 +4,7 @@ I am Junwoo kim who is interested in GOLANG from South Korea.
 If you want to contact me, send to me an email 😊
 
 
-- 🌱 I’m currently learning: Go,Gin
-- 👯 I’m looking to collaborate on: Team Andante
+- 🌱 I’m currently learning: Go,Gin,Blockchain
 - 📫 How to reach me: whktjd0109@gmail.com
 - 😄 Pronouns: vinylrich,juuun
 
